@@ -1,0 +1,2 @@
+# VMGMEMORITER
+a memoriterek
