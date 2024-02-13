@@ -1,19 +1,31 @@
-# Memoriter
 
-## Memoriterek 2024. 02. 15.
+# Memoriterek 2024. 02. 15. 
+
+
+
 
 ##  Fa leszek, ha..
-<div class="paragraph-container">
+
 Fa leszek, ha fának vagy virága.
+
 Ha harmat vagy: én virág leszek.
+
 Harmat leszek, ha te napsugár vagy...
+
 Csak, hogy lényink egyesüljenek.
 
+
+
+
 Ha, leányka, te vagy a mennyország:
+
 Akkor én csillagá változom.
+
 Ha, leányka, te vagy a pokol: (hogy
+
 Egyesüljünk) én elkárhozom.
-</div>
+
+
 
 
 ## Reszket a bokor, mert..
@@ -49,31 +61,41 @@ Ezerszer áldjon meg!
 
 Ne fogjon senki könnyelműen
 A húrok pengetésihez!
+
 Nagy munkát vállal az magára,
 Ki most kezébe lantot vesz.
+
 Ha nem tudsz mást, mint eldalolni
 Saját fájdalmad s örömed:
+
 Nincs rád szüksége a világnak,
 S azért a szent fát félretedd.
 
+
 Előre hát mind, aki költő,
 A néppel tűzön-vízen át!
+
 Átok reá, ki elhajítja
 Kezéből a nép zászlaját.
+
 Átok reá, ki gyávaságból
 Vagy lomhaságból elmarad,
+
 Hogy, míg a nép küzd, fárad, izzad,
 Pihenjen ő árnyék alatt!
 
 Ha majd a bőség kosarából
 Mindenki egyaránt vehet,
+
 Ha majd a jognak asztalánál
 Mind egyaránt foglal helyet,
+
 Ha majd a szellem napvilága
 Ragyog minden ház ablakán:
+
 Akkor mondhatjuk, hogy megálljunk,
 Mert itt van már a Kánaán!
-</div>
+
 
 ## Szeptember végén
  Még nyílnak a völgyben a kerti virágok,  
@@ -106,8 +128,13 @@ Még akkor is, ott is, örökre szeret!
 
 ## Szabadság szerelem!
  Szabadság, szerelem!
+ 
 E kettő kell nekem.
+
 Szerelmemért föláldozom
+
 Az életet,
+
 Szabadságért föláldozom
+
 Szerelmemet.
