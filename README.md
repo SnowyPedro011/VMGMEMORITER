@@ -3,6 +3,7 @@
 ## Memoriterek 2024. 02. 15.
 
 ##  Fa leszek, ha..
+<div class="paragraph-container">
 Fa leszek, ha fának vagy virága.
 Ha harmat vagy: én virág leszek.
 Harmat leszek, ha te napsugár vagy...
@@ -12,6 +13,8 @@ Ha, leányka, te vagy a mennyország:
 Akkor én csillagá változom.
 Ha, leányka, te vagy a pokol: (hogy
 Egyesüljünk) én elkárhozom.
+</div>
+
 
 ## Reszket a bokor, mert..
 Reszket a bokor, mert  
