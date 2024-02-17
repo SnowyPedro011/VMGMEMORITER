@@ -30,7 +30,7 @@ Egyesüljünk) én elkárhozom.
 
 ## Reszket a bokor, mert..
 Reszket a bokor, mert  
-Madárka szállott rá. 
+Madárka szállott rá.
 Reszket a lelkem, mert  
 Eszembe jutottál,  
 Eszembe jutottál,  
