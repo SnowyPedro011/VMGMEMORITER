@@ -71,6 +71,7 @@ Saját fájdalmad s örömed:
 Nincs rád szüksége a világnak,
 S azért a szent fát félretedd.
 
+                                       
 
 Pusztában bujdosunk, mint hajdan
 Népével Mózes bujdosott,
@@ -84,6 +85,7 @@ Lángoszlopoknak rendelé
 A költőket, hogy ők vezessék
 A népet Kánaán felé.
 
+                                       
 
 Előre hát mind, aki költő,
 A néppel tűzön-vízen át!
@@ -97,6 +99,7 @@ Vagy lomhaságból elmarad,
 Hogy, míg a nép küzd, fárad, izzad,
 Pihenjen ő árnyék alatt!
 
+                                       
 
 Ha majd a bőség kosarából
 Mindenki egyaránt vehet,
